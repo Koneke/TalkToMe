@@ -1,0 +1,1 @@
+* pass focus from one input command to another (so we can get multikey commands like, lc for list channels, lw list windows, etc.):wq
