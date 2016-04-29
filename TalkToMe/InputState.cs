@@ -1,0 +1,6 @@
+﻿namespace TalkToMe
+{
+	class InputState
+	{
+	}
+}
